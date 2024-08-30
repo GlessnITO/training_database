@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ttainingdatabase-dev-70471-authRole",
+      "UnauthRoleArn": "arn:aws:iam::976193265987:role/amplify-ttainingdatabase-dev-70471-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::976193265987:role/amplify-ttainingdatabase-dev-70471-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ttainingdatabase-dev-70471-deployment",
+      "UnauthRoleName": "amplify-ttainingdatabase-dev-70471-unauthRole",
+      "StackName": "amplify-ttainingdatabase-dev-70471",
+      "StackId": "arn:aws:cloudformation:us-east-1:976193265987:stack/amplify-ttainingdatabase-dev-70471/07ccbb60-66e0-11ef-9231-0ed181aef3bf",
+      "AmplifyAppId": "d1wkfb0gbr55vz"
+    },
+    "categories": {
+      "auth": {
+        "ttainingdatabase577a45de": {}
+      }
+    }
+  }
+}
